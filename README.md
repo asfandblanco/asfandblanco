@@ -2,11 +2,11 @@
 <h3 align="center">Estoy interesado en aprender programación, python, AI y ML...</h3>
 
 <div align="center">
-  <!-- Stats -->
+  <!-- Stats 
   <img src="https://github-readme-stats.vercel.app/api?username=asfandblanco&show_icons=true&theme=merko&locale=es&hide_border=false" height="150" alt="stats graph" />
   
   <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=asfandblanco&theme=merko&locale=es&hide_border=false" height="150" alt="streak graph" />
+  <!-- <img src="https://streak-stats.demolab.com?user=asfandblanco&theme=merko&locale=es&hide_border=false" height="150" alt="streak graph" /> -->
   
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asfandblanco&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph" />
@@ -15,9 +15,9 @@
 
 
 
-- 🌱 Estoy aprendiendo Python en [Codedex Python jugando.](https://www.codedex.io/home)
+- 🌱 Estoy aprendiendo Python en [Coddy Tech Python.](https://coddy.tech/journeys/python/)
 
-- 📝 Actualmente estoy aprendiendo **Python**
+- 📝 Actualmente estoy aprendiendo **Python,VIM y mucho mas.**
 
 - 👯 En mi tiempo libre me gusta **aprender cosas nuevas...**
 
