@@ -29,6 +29,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="mailto:asfandblanco@gmail.com" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21~bgwhite.svg" alt="asfandblanco@gmail.com" height="50" width="60"/>
+  </a>
   <a href="https://www.youtube.com/c/yosoyasfand596" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yosoyasfand596" height="50" width="60"/>
   </a>
@@ -65,4 +68,3 @@
     <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="vim" width="60" height="60"/>
   </a>
 </p>
-
