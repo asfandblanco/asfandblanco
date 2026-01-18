@@ -35,7 +35,7 @@
     <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21~bgwhite.svg" alt="asfandblanco@gmail.com" height="50" width="60"/>
   </a>
   <a href="https://www.youtube.com/c/yosoyasfand596" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yosoyasfand596" height="50" width="60"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@yosoyasfand596" height="50" width="60"/>
   </a>
 </p>
 
